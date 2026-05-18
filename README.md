@@ -27,6 +27,14 @@ Production-hardened REST backend for [WebMARS](https://webmarsimulator.com), a b
 
 ---
 
+## 🤝 Open To
+
+- Collaborating on backend or systems projects
+- Internship opportunities (Summer/Fall 2026)
+- Connecting with other engineers learning the craft
+
+---
+
 ## 📫 Let's Connect
 
 [Landon CLay - LinkedIn](https://www.linkedin.com/in/landon-clay-2b8000349/)
