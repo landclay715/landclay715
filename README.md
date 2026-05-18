@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Landon Clay 
 
-<!--
-**landclay715/landclay715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior at San Diego State University studying Computer Science (expected graduation May 2028). I'm focused on backend engineering — building the systems that power things rather than the things users click on.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm Building
+
+### [WebMARS API](https://github.com/landclay715/webmars-api)
+Production-hardened REST backend for [WebMARS](https://webmarsimulator.com), a browser-based MIPS32 assembly simulator built for CS240 at SDSU.
+
+- JWT authentication with BCrypt password hashing and custom security filter
+- Snippet ownership and public/private visibility with ownership-gated access
+- Run history logging with per-user leaderboard aggregation
+- Flyway database migrations for production-safe schema management
+- Discovered and remediated exposed credentials in git history using git-filter-repo
+- Built with Java 21, Spring Boot 4, Spring Security, PostgreSQL, Flyway, Maven
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Java, C++, Python, SQL  
+**Frameworks:** Spring Boot, Spring Security  
+**Database:** PostgreSQL  
+**Tools:** Maven, Flyway, Git, IntelliJ IDEA, Postman  
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/landon-clay-2b8000349/)
