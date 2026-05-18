@@ -29,4 +29,4 @@ Production-hardened REST backend for [WebMARS](https://webmarsimulator.com), a b
 
 ## 📫 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/landon-clay-2b8000349/)
+[Landon CLay - LinkedIn](https://www.linkedin.com/in/landon-clay-2b8000349/)
